@@ -32,6 +32,13 @@ This project analyzes customer transaction data to identify the most profitable 
 - Optimize marketing strategies based on customer segmentation.  
 - Improve inventory planning based on demand forecasting.  
 
+
+## Dataset and Code  
+- 📂 [Dataset (Google Drive)]([https://drive.google.com/your-dataset-link](https://drive.google.com/drive/folders/1JLHEIQp95b6Jo3iiXGYfIdKUrs8uWJn1))  
+
+- 📜 [Jupyter Notebook](https://colab.research.google.com/drive/1sI6nZFOk897ww4b8bD1YNnVjLGA3ovOD?usp=drive_link)  
+
+
 ---
 
 📌 *This project helps businesses understand customer preferences and improve decision-making for sales and marketing strategies.* 🚀  

@@ -15,7 +15,10 @@ This project analyzes customer transaction data to identify the most profitable 
   5. Smiths Crinkle Original 330g  
 - **Least Popular Products**:  
   - Woolworths Medium Salsa 300g  
-  - WW Crinkle Cut Original 175g  
+  - WW Crinkle Cut Original 175g
+  - French Fries Potato Chips 175g
+  - NCC Sour Cream &    Garden Chives 175g
+  -  RRD Pc Sea Salt     165g 
  
 
 ## Technologies Used  

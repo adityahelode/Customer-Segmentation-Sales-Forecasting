@@ -1,1 +1,3 @@
 # Customer-Segmentation-Sales-Forecasting
+
+## The analysis reveals that **Mainstream** customers are the most loyal based on total spending. When considering both **life stage and premium category**, **Older Families with a Budget preference** emerge as the most profitable segment. Additionally, **Older Singles/Couples** contribute the highest revenue when analyzed solely by life stage. The **top 5 best-selling products** dominate customer purchases, while **low-demand products** indicate potential for marketing adjustments. In the future, we can use **LSTM or any efficient model** to predict top-selling products, enabling better comparison with current trends to optimize inventory and marketing strategies.
